@@ -1,0 +1,16 @@
+/* styles.css */
+.navbar-nav .nav-link.active {
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+}
+.main-content {
+    padding: 20px;
+    margin-top: 20px;
+}
+.section {
+    display: none;
+}
+.section.active {
+    display: block;
+}
